@@ -15,11 +15,11 @@ export default function Home() {
 
         {/* Example Image */}
         <div className="relative w-48 h-48 mx-auto mb-6">
-          <Image 
-            src="/image/1.jpg"   // replace with your image path in /public
-            alt="App Logo"
-            fill
-            className="object-contain rounded-lg shadow-md"
+          <Image
+            src="/image/1.jpg"
+            width={150}
+            height={150}nn
+            className="rounded-full border-4 border-gray-200 shadow-md"
           />
         </div>
 
