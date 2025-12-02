@@ -19,9 +19,7 @@ export default function AboutPage() {
 
         {/* Description */}
         <p className="text-gray-600 leading-relaxed">
-          Welcome to the About Page. Here you can share more details about yourself, 
-          your project, or your company. Add your mission, values, or story to make 
-          this section engaging and personal.
+          Welcome to the About Page. JOKIC MVP
         </p>
       </div>
     </div>
