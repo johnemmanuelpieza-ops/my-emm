@@ -12,17 +12,7 @@ export default function Home() {
         <p className="text-lg md:text-xl text-gray-600 mb-8">
           A modern Next.js app styled with Tailwind CSS
         </p>
-
-        {/* Example Image */}
-        <div className="relative w-48 h-48 mx-auto mb-6">
-          <Image
-            src="/image/1.jpg"
-            width={150}
-            height={150}nn
-            className="rounded-full border-4 border-gray-200 shadow-md"
-          />
-        </div>
-
+        
         {/* Call to Action */}
         <button className="bg-blue-600 text-white px-6 py-2 rounded-lg shadow hover:bg-blue-700 transition">
           Get Started
